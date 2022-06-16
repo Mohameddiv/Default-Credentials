@@ -1,0 +1,14 @@
+admin
+cloudera
+moves
+mcUser
+dbuser
+asteriskuser
+root
+mysql
+db
+test
+user
+demo
+
+
